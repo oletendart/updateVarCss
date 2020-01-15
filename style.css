@@ -4,6 +4,11 @@
   --blur: 10px;
 }
 
+img {
+  padding: var(--spacing);
+  background: var(--base);
+}
+
 body {
   text-align: center;
   font-size: 10px;
